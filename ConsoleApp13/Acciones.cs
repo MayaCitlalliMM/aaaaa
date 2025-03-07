@@ -79,7 +79,7 @@ namespace ConsoleApp13
 
                 Console.Write("Introduce el nuevo color del automóvil: ");
                 string nuevoColor = Console.ReadLine();
-
+                // nuevo
                 // Actualizar los datos del automóvil
                 automovil.Marca = nuevaMarca;
                 automovil.Modelo = nuevoModelo;
